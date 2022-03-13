@@ -16,19 +16,19 @@
 
 ![BTC](/assets/images/btc.png)
 
-bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas (estas donaciones en bitcoin tienen el mismo fin que la DAO pero la gestión es diferente)
+bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas (Las donaciones en bitcoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO)
 
 **Donaciones Ether y ERC20:**
 
-![BTC](/assets/images/eth.png)
+![ETH](/assets/images/eth.png)
 
-0xEDA f965 05B1 46A8 bfba 6533 5d05 5149 8C70 A4D8a
+0xEDA f965 05B1 46A8 bfba 6533 5d05 5149 8C70 A4D8a (Las donaciones en Ether persiguen el mismo fin que la DAO pero no están gestionadas por la DAO)
 
 **Donaciones Dogecoin:**
 
-![BTC](/assets/images/doge.png) 
+![DOGE](/assets/images/doge.png) 
 
-DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ
+DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ (Las donaciones en DOGECoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO)
 
 **Token ERC20 de la DAO:**  TRANSPORTISTAS TOKEN (TRT) 
 
