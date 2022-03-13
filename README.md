@@ -2,6 +2,9 @@
 ## Repositorio y DAO de ayuda a los transportistas españoles por la subida de los combustibles
 ## Ayuda directa, íntegra y transparente mediante una DAO, Organización Autónoma Descentralizada
 
+**[Wiki](https://github.com/NGDAOorg/provida/wiki/DAOs)** | **[Foro de debate](https://github.com/NGDAOorg/transportistas/discussions)** | **[Preguntas y respuestas](https://github.com/NGDAOorg/transportistas/discussions/categories/q-a)**
+
+
 **Url:** https://github.com/NGDAOorg/transportistas
 
 **Blockchain:** Polygon
@@ -33,12 +36,6 @@ DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ (Las donaciones en DOGECoin persiguen 
 **Token ERC20 de la DAO:**  TRANSPORTISTAS TOKEN (TRT) 
 
 ### Los transportistas se enfrentan a tiempos muy duros en los que van a necesitar toda nuestra ayuda.
-
-**Wiki:** https://github.com/NGDAOorg/provida/wiki/DAOs
-
-**Foro de debate:** https://github.com/NGDAOorg/transportistas/discussions
-
-**Preguntas y respuestas:** https://github.com/NGDAOorg/transportistas/discussions/categories/q-a
 
 ## Ayuda DIRECTA
 **La ayuda llega directamente**, sin intermediarios, a las propios transportistas o a sus asociaciones.
