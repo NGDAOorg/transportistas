@@ -14,25 +14,14 @@
 
 **Nombre de la DAO:** La DAO está en construcción, disculpen las molestias
 
-**Donaciones a la DAO:** La DAO está en construcción, disculpen las molestias (Polygon)
+### Donaciones a la causa
+|           | **Donaciones a la DAO:** | **Donaciones con BTC** | **Donaciones con ETH y ERC20** | **Donaciones con DOGE coin** |
+|----------:|:------------------------:|:----------------------:|:------------------------------:|:----------------------------:|
+|Red        |Polygon                   | Bitcoin                | Ethereum                       | Dogecoin                     |
+|QR         | La DAO está en construcción, disculpen las molestias (Polygon) | <img src="/assets/images/btc.png"> | <img src="/assets/images/eth.png"> | <img src="/assets/images/doge.png"> |
+|Dirección  |                          | bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas | 0xEDA f965 05B1 46A8 bfba 6533 5d05 5149 8C70 A4D8a | DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ |
+|Comentarios|                          | Las donaciones en bitcoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO | Las donaciones en Ether persiguen el mismo fin que la DAO pero no están gestionadas por la DAO | Las donaciones en DOGECoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO |
 
-**Donaciones BTC:**
-
-![BTC](/assets/images/btc.png)
-
-bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas (Las donaciones en bitcoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO)
-
-**Donaciones Ether y ERC20:**
-
-![ETH](/assets/images/eth.png)
-
-0xEDA f965 05B1 46A8 bfba 6533 5d05 5149 8C70 A4D8a (Las donaciones en Ether persiguen el mismo fin que la DAO pero no están gestionadas por la DAO)
-
-**Donaciones Dogecoin:**
-
-![DOGE](/assets/images/doge.png) 
-
-DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ (Las donaciones en DOGECoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO)
 
 **Token ERC20 de la DAO:**  TRANSPORTISTAS TOKEN (TRT) 
 
