@@ -8,9 +8,9 @@
 
 **Acceso a la DAO:** https://client.aragon.org/
 
-**Nombre de la DAO:** transportistas
+**Nombre de la DAO:** La DAO está en construcción, disculpen las molestias
 
-**Donaciones a la DAO:**  (Polygon)
+**Donaciones a la DAO:** La DAO está en construcción, disculpen las molestias (Polygon)
 
 **Donaciones BTC:**
 
