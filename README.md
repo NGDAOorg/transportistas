@@ -2,8 +2,9 @@
 ## Repositorio y DAO de ayuda a los transportistas españoles por la subida de los combustibles
 ## Ayuda directa, íntegra y transparente mediante una DAO, Organización Autónoma Descentralizada
 
+---
 **[Wiki](https://github.com/NGDAOorg/provida/wiki/DAOs)** | **[Foro de debate](https://github.com/NGDAOorg/transportistas/discussions)** | **[Preguntas y respuestas](https://github.com/NGDAOorg/transportistas/discussions/categories/q-a)**
-
+---
 
 **Url:** https://github.com/NGDAOorg/transportistas
 
@@ -36,13 +37,13 @@ DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ (Las donaciones en DOGECoin persiguen 
 **Token ERC20 de la DAO:**  TRANSPORTISTAS TOKEN (TRT) 
 
 ### Los transportistas se enfrentan a tiempos muy duros en los que van a necesitar toda nuestra ayuda.
-
+---
 ## Ayuda DIRECTA
 **La ayuda llega directamente**, sin intermediarios, a las propios transportistas o a sus asociaciones.
 
   * Los promotores de la DAO, los donantes de fondos y transportistas afectados, **decidirán de forma democrática y transparente como y a quien se le reparten los fondos**
   * Promotores, donantes de fondos y transportistas afectados **saben mejor que nadie cómo y a quién repartir las ayudas**
-
+---
 ## Gestión TRANSPARENTE
 **Cualquier persona puede ver** de forma totalmente transparente:
 
@@ -57,7 +58,7 @@ DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ (Las donaciones en DOGECoin persiguen 
 * Cuantos tokens y **poder de votación** tiene cada miembro de la DAO
 
 * **Cuantos fondos ha recibido cada afectado** o miembro de la DAO, bien desde la DAO o desde cualquier otro origen
-
+---
 ## Sistema INCENSURABLE
 La DAO está **basada en blockchain**, por lo tanto:
 
@@ -66,14 +67,14 @@ La DAO está **basada en blockchain**, por lo tanto:
 * **Nadie puede censurar la DAO**
 
 * La DAO permanecerá **activa y visible por siempre**
-
+---
 ## Gestión DEMOCRÁTICA
 * **Ninguna acción de la DAO se ejecuta sin una votación** previa
 
 * **El poder de voto reside en la tenencia de tokens** de gobernanza TRTs
 
 * Los tokens de gobernanza TRTs están **repartidos entre promotores, donantes y afectados**
-
+---
 ## REPARTO JUSTO de tokens de gobernanza
 Los tokens de gobernanza se reparten entre:
 
@@ -90,6 +91,6 @@ En función del criterio establecido por los miembros de la DAO, **lps afectados
 Cada semana*, un 10%* de los **tokens** ya emitidos, **son emitidos y repartidos entre los donantes** de la DAO proporcionalmente al valor de las ayudas aportadas
 
 * *El porcentaje de tokens y la periodicidad, puede variar en función de lo que decidan los miembros de la DAO
-
+---
 ## Economía DUAL
 Las ayudas recibidas en moneda MATIC, Ether, DAI, o cualquier otro token existente en la red de Polygon, llegan de diferentes donantes y se reparten entre los transportistas necesitados de estas ayudas, pero **el propio token TRT, con valor** en pools de liquidez, **podría ser aceptado por comercios** decididos a ayudar a las afectados **a modo de descuento** en las compras que realicen.
