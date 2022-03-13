@@ -43,7 +43,7 @@
  <tr>
   <td>Dirección</td>
   <td></td>
-  <td>bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas</td>
+  <td>bc1 qd4e glck 8m8j 30aj 4l6l wz9u 9zpx xec3 cnlz nas</td>
   <td>0xEDA f965 05B1 46A8 bfba 6533 5d05 5149 8C70 A4D8a</td>
   <td>DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ</td>
  </tr>
