@@ -12,7 +12,15 @@
 
 **Donaciones a la DAO:**  (Polygon)
 
-**Donaciones BTC:** (estas donaciones en bitcoin tienen el mismo fin que la DAO pero la gestión es diferente)
+**Donaciones BTC:** \
+![BTC](/assets/images/btc.png) \
+bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas (estas donaciones en bitcoin tienen el mismo fin que la DAO pero la gestión es diferente)
+**Donaciones Ether y ERC20:** \ 
+![BTC](/assets/images/eth.png) \
+0xEDA f965 05B1 46A8 bfba 6533 5d05 5149 8C70 A4D8a
+**Donaciones Dogecoin:** \ 
+![BTC](/assets/images/doge.png) \
+DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ
 
 **Token ERC20 de la DAO:**  TRANSPORTISTAS TOKEN (TRT) 
 
