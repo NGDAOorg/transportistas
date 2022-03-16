@@ -20,6 +20,11 @@
 
 ### Donaciones a la causa
 
+<style type="text/css">
+table, th, td {
+  border: 1px solid black;
+}
+</style>
 <table style="border: 1px solid black;">
  <tr>
   <th><h3>DONACIONES</h3></th>
