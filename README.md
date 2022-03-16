@@ -20,44 +20,44 @@
 
 ### Donaciones a la causa
 
-<table>
+<table style="border: 1px solid black;">
  <tr>
-  <th></th>
+  <th><h3>DONACIONES</h3></th>
   <th> <h4>Donaciones a la DAO</h4> </th>
   <th> <h4>Donaciones con BTC</h4> </th>
   <th> <h4>Donaciones con ETH y ERC20</h4> </th>
   <th> <h4>Donaciones con DOGE coin</h4> </th>
  </tr>
  <tr>
-  <td>Red</td>
+  <td><h4>Red</h4></td>
   <td>Polygon</td>
   <td>Bitcoin</td>
   <td>Ethereum</td>
   <td>Dogecoin</td>
  </tr>
  <tr>
-  <td>QR </td>
+  <td><h4>QR </h4></td>
   <td><img src="/assets/images/TRT.png"></td>
   <td><img src="/assets/images/btc.png"></td>
   <td> <img src="/assets/images/eth.png"></td>
   <td><img src="/assets/images/doge.png"></td>
  </tr>
  <tr>
-  <td>Dirección</td>
+  <td><h4>Dirección</h4></td>
   <td>0x2b 8e1d 99b1 4df0 c0dd 9926 cc21 205d 6975 fa93af</td>
   <td>bc1 qd4e glck 8m8j 30aj 4l6l wz9u 9zpx xec3 cnlz nas</td>
   <td>0xEDA f965 05B1 46A8 bfba 6533 5d05 5149 8C70 A4D8a</td>
   <td>DJfTZ w9DZ zm7t YoBs LpB4 ZBGt tyyq MD7QZ</td>
  </tr>
  <tr>
-  <td>Comentarios</td>
+  <td><h4>Comentarios</h4></td>
   <td>Se admite MATIC, Ether (Polygon) o cualquier otro token ERC20 existente dentro de la red de Polygon.<br/>Estas donaciones serán gestionadas por la DAO</td>
   <td>Las donaciones en bitcoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO</td>
   <td>Las donaciones en Ether persiguen el mismo fin que la DAO pero no están gestionadas por la DAO</td>
   <td>Las donaciones en DOGECoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO</td>
  </tr>
  <tr>
-  <td>Ver donaciones y movimientos</td>
+  <td><h3>Transparencia</h3><h4>Ver donaciones ya realizadas y movimientos</h4></td>
   <td>Entra en <a href="client.aragon.com">Aragon Client</a> / Polygon / Transportes (Nombre de la organización) / Finanzas o en <a href="https://polygonscan.com/address/0x2b8e1d99b14df0c0dd9926cc21205d6975fa93af">Polygon explorer</a></td>
   <td><a href="https://www.blockchain.com/es/btc/address/bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas">Bitcoin explorer</a></td>
   <td><a href="https://etherscan.io/address/0xEDAf96505B146A8bfba65335d0551498C70A4D8a">Etherscan</a></td>
