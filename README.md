@@ -56,6 +56,13 @@
   <td>Las donaciones en Ether persiguen el mismo fin que la DAO pero no están gestionadas por la DAO</td>
   <td>Las donaciones en DOGECoin persiguen el mismo fin que la DAO pero no están gestionadas por la DAO</td>
  </tr>
+ <tr>
+  <td>Ver donaciones y movimientos</td>
+  <td>Entra en [Aragon Client](client.aragon.com) / Polygon / Transportes (Nombre de la organización) / Finanzas o en [Polygon explorer](https://polygonscan.com/address/0x2b8e1d99b14df0c0dd9926cc21205d6975fa93af)</td>
+  <td>[Bitcoin explorer](https://www.blockchain.com/es/btc/address/bc1qd4eglck8m8j30aj4l6lwz9u9zpxxec3cnlznas)</td>
+  <td>[Etherscan](https://etherscan.io/address/0xEDAf96505B146A8bfba65335d0551498C70A4D8a)</td>
+  <td>[Dogecoin explorer](https://dogechain.info/address/DJfTZw9DZzm7tYoBsLpB4ZBGttyyqMD7QZ)</td>
+ </tr>
 </table>
 
 ### Los transportistas se enfrentan a tiempos muy duros en los que van a necesitar toda nuestra ayuda.
