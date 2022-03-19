@@ -71,7 +71,7 @@
 ---
 
 ## Ayuda DIRECTA
-**La ayuda llega directamente**, sin intermediarios, a las propios transportistas o a sus asociaciones.
+**La ayuda llega directamente**, sin intermediarios, a los propios transportistas o a sus asociaciones.
 
   * Los promotores de la DAO, los donantes de fondos y transportistas afectados, **decidirán de forma democrática y transparente como y a quien se le reparten los fondos**
   * Promotores, donantes de fondos y transportistas afectados **saben mejor que nadie cómo y a quién repartir las ayudas**
