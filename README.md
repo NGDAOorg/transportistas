@@ -8,11 +8,11 @@
 
 ---
 
-**Url:** https://transportistas.ngdao.org/
+**Url:** [https://transportistas.ngdao.org/](https://transportistas.ngdao.org/)
 
 **Blockchain:** Polygon
 
-**Acceso a la DAO:** https://client.aragon.org/
+**Acceso a la DAO:** [https://client.aragon.org/](https://client.aragon.org/)
 
 **Nombre de la DAO:** Transporte
 
