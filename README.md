@@ -8,7 +8,7 @@
 
 ---
 
-**Url:** https://github.com/NGDAOorg/transportistas
+**Url:** https://transportistas.ngdao.org/
 
 **Blockchain:** Polygon
 
